@@ -1,4 +1,4 @@
-# Bottleworks Web Scraper
+# Bottleworks Inventory Finder
     #### Video Demo:  https://youtu.be/FqFrrAn2MpU
     #### Description: As a beer connoisseur, I'm always on the lookout for new and exciting brews to try, but searching through the vast selection of products on my favorite Seattle bottle shop's website can be tedious and exhausting. To simplify this process, I created a web scraper that streamlines the search by automatically scanning the entire website for beers that match specific search criteria. This tool helps save time and ensures I don't miss out on potential favorites.
 
